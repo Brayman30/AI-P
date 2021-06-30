@@ -16,6 +16,7 @@ It's a simple shell script which installs many things, including the following:
  - Python
  - qBittorent
  - Variety
+
 And, also changes Variety to 
 ## How do I use it?
 Simple*...
