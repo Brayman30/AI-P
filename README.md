@@ -6,7 +6,7 @@
 
 It's a simple shell script which installs many things, including the following:
 
- Nano
+ - Nano
  - Firefox
  - VSCode
  - Discord
@@ -15,6 +15,8 @@ It's a simple shell script which installs many things, including the following:
  - Thunar
  - Python
  - qBittorent
+ - Variety
+And, also changes Variety to 
 ## How do I use it?
 Simple*...
 Open a terminal window and type 
