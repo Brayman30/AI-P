@@ -34,6 +34,7 @@ depending on which of distribution you are using, the commands are a *little dif
 |Arch|`bash Arch-AI-P.sh`|
 |Red Hat|`bash REL-AI-P.sh`|
 |OpenSUSE|`bash SUSE-AI-P.sh`|
+
 Once you start the script, you will be asked for your password either by a fancy GUI (if you have zenity installed) or by a sudo prompt
 ### *You will need to have Git installed already... but, if you don't, no worries... 
 just do
