@@ -10,7 +10,7 @@ It's a simple shell script which installs many things, including the following:
 
  - Nano
  - Firefox
- - VSCode
+ - Code - OSS (An Open source version of vsCode)
  - Discord
  - GParted
  - GIMP
