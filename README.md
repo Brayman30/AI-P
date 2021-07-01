@@ -29,7 +29,7 @@ Now, type
     cd AI-P
 
 Now... Here's where things get a **little *messy***, 
-depending on which of distribution you are using, the commands are a *little different* but, no big deal, files have already been created for Debian, Arch, Red Hat, & OpenSUSE (Hint: if you don't know what you are using, your probably using Debian.)
+depending on which of distribution you are using, the commands are a *little different* but, no big deal, files have already been created for Debian, Arch, Red Hat, & OpenSUSE (Hint: if you don't know what you are using, or you are using Ubuntu or one of it's derivitives, your using Debian. If you are using manjoro, you are using Arch, so be smug about it 😉 )
 #### The following commands will apply to each of those OS:
 |Distro|Command|
 |--|--|
@@ -39,3 +39,6 @@ depending on which of distribution you are using, the commands are a *little dif
 |OpenSUSE|`bash SUSE-AI-P.sh`|
 
 Once you start the script, you will be asked for your password either by a fancy GUI (if you have zenity installed) or by a sudo prompt
+
+###*
+You will need to have /bin/bash installed, but most distributions have that by default.
