@@ -2,7 +2,7 @@
 # AI&P
  My personal **A**pp **I**nstall **&** **P**ersonalisation script 
 
-<a href="https://github.com/Brayman30/AI-P#how-do-i-use-it"><img src="https://i.ibb.co/5YYY9rT/button-instructions-to-use-this-script.png"</a>
+<a href="https://github.com/Brayman30/AI-P#how-do-i-use-it"><img src="https://i.ibb.co/5YYY9rT/button-instructions-to-use-this-script.png"></a>
 
 ## OK, but what's it really
 
