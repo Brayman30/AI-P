@@ -17,6 +17,7 @@ It's a simple shell script which installs many things, including the following:
  - Thunar
  - Python
  - qBittorent
+ - Timeshift
  - Variety
 
 And, also changes Variety to 
@@ -41,12 +42,3 @@ depending on which of distribution you are using, the commands are a *little dif
 |OpenSUSE|`bash SUSE-AI-P.sh`|
 
 Once you start the script, you will be asked for your password either by a fancy GUI (if you have zenity installed) or by a sudo prompt
-### *You will need to have Git installed already... but, if you don't, no worries... 
-just do
-
-    sudo apt-get install git
-
-***or*** replace **apt-get** with your package manager of choice.
-
-If you ***Really*** don't want to install Git, just follow this link and click the green code button and then download Zip, then you will have to unzip the zipped file that your web browser downloads.
-#### Also, this will only apply to a very limited number of you, but if you don't have bash, you can't use this... simple as that
