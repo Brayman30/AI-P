@@ -18,6 +18,7 @@ It's a simple shell script which installs many things, including the following:
  - Python
  - qBittorent
  - Timeshift
+ - rclone
 ## How do I use it?
 Simple*...
 Open a terminal window and type 
