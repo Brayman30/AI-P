@@ -3,4 +3,4 @@
 zenity --password --title="Enter Password to Install Programs" --timeout=10 | sudo -S 
 sudo zypper --non-interactive patch --with-optional
 sudo zypper --non-interactive update
-sudo zypper --non-interactive install Nano Firefox VSCodium Discord GParted GIMP Thunar Python qBittorent Timeshift rclone
+sudo zypper --non-interactive install nano firefox vscodium discord gparted gimp thunar python qbittorent timeshift rclone
