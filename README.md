@@ -1,6 +1,8 @@
 
 # AI&P
  My personal **A**pp **I**nstall **&** **P**ersonalisation script 
+ 
+[![basher install](https://www.basher.it/assets/logo/basher_install.svg)](https://www.basher.it/package/)
 
 <a href="https://github.com/Brayman30/AI-P#how-do-i-use-it"><img src="https://i.ibb.co/5YYY9rT/button-instructions-to-use-this-script.png"></a>
 
