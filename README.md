@@ -42,4 +42,6 @@ depending on which of distribution you are using, the commands are a *little dif
 Once you start the script, you will be asked for your password either by a fancy GUI (if you have zenity installed) or by a sudo prompt
 
 ###*
-You will need to have /bin/bash and git installed but most distributions have that by default.
+####You will need to have /bin/bash and git installed but most distributions have that by default.
+
+####Also, note for arch, you will need DNF to run this... If you have complanints please write to `222 Do Not Care road Providence, Rohde Island`
