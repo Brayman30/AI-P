@@ -9,15 +9,15 @@
 It's a simple shell script which installs many things, including the following:
 
  - Nano
- - Firefox
- - VSCodium (An Open source version of vsCode)
- - Discord
- - GParted
- - GIMP
- - Thunar
- - Python
- - qBittorent
- - Timeshift
+ - Firefox 
+ - VSCodium 
+ - Discord 
+ - GParted 
+ - GIMP 
+ - Thunar 
+ - Python 
+ - qBittorent 
+ - Timeshift 
  - rclone
 ## How do I use it?
 Simple*...
