@@ -30,7 +30,7 @@ Now, type
     cd AI-P
 
 Now... Here's where things get a **little *messy***, 
-depending on which of distribution you are using, the commands are a *little different* but, no big deal, files have already been created for Debian, Arch, Red Hat, & OpenSUSE (Hint: if you don't know what you are using, or you are using Ubuntu or one of it's derivitives, your using Debian. If you are using manjoro, you are using Arch, so be smug about it 😉 )
+depending on which of distribution you are using, the commands are a *little different* but, no big deal, files have already been created for Debian, Arch, Red Hat, & OpenSUSE (Hint: If you don't know what you are using, or you are using Ubuntu or one of it's derivitives, you're using Debian. If you are using manjoro, you are using Arch, so be smug about it 😉 )
 #### The following commands will apply to each of those OS:
 |Distro|Command|
 |--|--|
