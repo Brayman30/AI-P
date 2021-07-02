@@ -44,4 +44,4 @@ Once you start the script, you will be asked for your password either by a fancy
 ###*
 ####You will need to have /bin/bash and git installed but most distributions have that by default.
 
-####Also, note for arch, you will need DNF to run this... If you have complanints please write to `222 Do Not Care road Providence, Rohde Island`
+####Also, note for arch, you will need DNF to run this... If you have complanints please write to `2223 Frying Pan Rd, Basalt, CO 81621`
